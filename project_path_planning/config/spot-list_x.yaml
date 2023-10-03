@@ -1,0 +1,16 @@
+!!python/object/new:geometry_msgs.msg._pose.Pose
+state: !!python/tuple
+- null
+- _orientation: !!python/object/new:geometry_msgs.msg._quaternion.Quaternion
+    state: !!python/tuple
+    - null
+    - _w: 0.4954866840091101
+      _x: 0.0
+      _y: 0.0
+      _z: -0.8686155340365819
+  _position: !!python/object/new:geometry_msgs.msg._point.Point
+    state: !!python/tuple
+    - null
+    - _x: 0.07470917701721191
+      _y: -1.059847116470337
+      _z: 0.0

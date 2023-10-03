@@ -1,0 +1,26 @@
+spot_reader:
+  ros__parameters:
+    corner1: 
+      pos_x: -0.0266 # position x
+      pos_y: -1.196
+      pos_z: 0.0
+      quat_x: 0.0 # quaternion x
+      quat_y: 0.0
+      quat_z: -0.214
+      quat_w: 0.999
+    corner2: 
+      pos_x: -0.633
+      pos_y: 0.010
+      pos_z: 0.0
+      quat_x: 0.0
+      quat_y: 0.0
+      quat_z: -0.767
+      quat_w: 0.642
+    center: 
+      pos_x: 0.149
+      pos_y: -0.521
+      pos_z: 0.0
+      quat_x: 0.0
+      quat_y: 0.0
+      quat_z: -0.727
+      quat_w: 0.686
